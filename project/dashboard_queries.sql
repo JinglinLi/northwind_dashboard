@@ -113,8 +113,6 @@ JOIN monthly_sale_ErnstHandel mse ON ms.month = mse.month;
 
 
 -- OTHER e.g
--- how to get hiring age
-SELECT date_part('year', hire_date) - date_part('year', birth_date) as hire_age from employees;
 -- Which customers by what product 
 -- What could be a nice way to visualize?
 CREATE VIEW customer_product AS

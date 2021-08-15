@@ -1,4 +1,4 @@
 # Northwind Dashboard
-AWS project : use metabase on AWS-EC2 to make dashboard on data in postgres database on AWS-RDS
+use Metabase on AWS-EC2 to make dashboard of data in PostgreSQL database on AWS-RDS
 
-![](results.mov)
+![](northwind.png)
